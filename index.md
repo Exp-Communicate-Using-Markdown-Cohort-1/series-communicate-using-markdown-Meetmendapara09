@@ -34,5 +34,3 @@ A task list creates checkboxes to check off. They are useful for tracking issues
 2. **Image:** The image has been included as specified for Step 2.
 3. **Code Example:** The CSS code block is included, fulfilling the requirement for Step 3.
 4. **Task List:** The task list is included under `### Task List`, meeting the requirements for Step 4.
-
-Once you’ve made these changes, commit the `index.md` file to the `start-markdown` branch, and it should satisfy the criteria for steps 1 through 4.
