@@ -1,36 +1,19 @@
-# Meet Mendapara
+# HEADER1
+## HEADER2
+### HEADER3
+#### HEADER4
+##### HEADER5
+###### HEADE6
 
-![NASA Image](https://www.hindustantimes.com/ht-img/img/2024/03/06/900x1600/nasa_1709710708362_1709710708681.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Example CSS Code
 
-```html
-<style>
-  .code-block {
-    background-color: #f4f4f4;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 10px;
-    font-family: 'Courier New', Courier, monospace;
-    overflow-x: auto;
-  }
-</style>
 ```
-
-### Task List
-
-A task list creates checkboxes to check off. They are useful for tracking issues and pull requests.
-
-### Example
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
-
-
-### Explanation of Changes:
-
-1. **Headers:** The file already includes the header `# Meet Mendapara`, which fulfills the requirement for Step 1.
-2. **Image:** The image has been included as specified for Step 2.
-3. **Code Example:** The CSS code block is included, fulfilling the requirement for Step 3.
-4. **Task List:** The task list is included under `### Task List`, meeting the requirements for Step 4.
